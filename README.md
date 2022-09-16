@@ -1,0 +1,2 @@
+# jefetoken-ftm-v2
+JEFE TOKEN FANTOM CONTRACT
